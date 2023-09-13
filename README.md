@@ -1,4 +1,4 @@
-# Hi, I'm Ben, Nice to meet you!
+# Hi, I'm Ben. Nice to meet you!
 
 - Based in Vancouver, BC
 - Currently studying CS @ UBC
