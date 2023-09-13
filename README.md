@@ -3,6 +3,7 @@
 - Based in Vancouver, BC
 - Currently studying CS @ UBC
 - [Here's my resume!]()
+- I enjoy [&#128247; Photography](https://www.instagram.com/benedict_damian_tan/) as well.
 
 ## Technologies
 
