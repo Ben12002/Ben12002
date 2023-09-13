@@ -1,8 +1,8 @@
-# Hi, I'm Ben!
+# Hi, I'm Ben, Nice to meet you!
 
-- Based in Vancouver, BC. 
-- Currently studying CS @ UBC. Nice to meet you!
-- [Here's my resume]().
+- Based in Vancouver, BC
+- Currently studying CS @ UBC
+- [Here's my resume]()!
 
 ## Technologies
 
