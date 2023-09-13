@@ -2,7 +2,7 @@
 
 - Based in Vancouver, BC
 - Currently studying CS @ UBC
-- [Here's my resume]()!
+- [Here's my resume!]()
 
 ## Technologies
 
