@@ -19,3 +19,18 @@ Testing
 
 ## Contact me:
 [![Linkedin](https://img.shields.io/badge/-Ben-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/ben12002/)  &nbsp;  [![Email](https://img.shields.io/badge/-Ben-000?style=for-the-badge&logo=gmail&logoColor=azure&color=EA4335)](mailto:bendamian2012@gmail.com)
+
+## Notable Projects:
+### [Neural Network Library](https://github.com/Ben12002/Neural-Network-from-Scratch)
+[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=1572B6)](#)
+
+
+***
+### [LearnBook](https://github.com/Ben12002/learnbook)
+[![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#) [![Rails](https://img.shields.io/badge/-Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)](#)
+[![Javascript](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#) 
+
+***
+### [Chess](https://github.com/Ben12002/chess)
+[![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#)
+
