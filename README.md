@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Ben!
 
-<!--
-**Ben12002/Ben12002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Based in Vancouver, BC. 
+- Currently studying CS @ UBC. Nice to meet you!
+- [Here's my resume]().
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages  
+[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=1572B6)](#) [![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#) [![Javascript](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#) 
+
+Frameworks  
+[![Rails](https://img.shields.io/badge/-Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)](#) [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)](#)
+
+Testing  
+[![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rspec)](#)
