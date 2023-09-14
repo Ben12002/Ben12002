@@ -32,5 +32,5 @@ Testing
 
 ***
 ### [Chess](https://github.com/Ben12002/chess)
-[![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#)
+[![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#) [![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rspec)](#)
 
