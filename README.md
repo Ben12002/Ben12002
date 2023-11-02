@@ -2,7 +2,7 @@
 
 - Based in Vancouver, BC
 - Currently studying CS @ UBC
-- I enjoy [&#128247; Photography](https://www.instagram.com/benedict_damian_tan/) as well.
+- I enjoy [&#128247; Photography](https://bendamian.dev/#:~:text=MEMORY%20GAME-,PHOTOGRAPHY,-RESUME) as well.
 
 ## Technologies:
 
